@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meerkatalyst.Demo.ASPnet", "Meerkatalyst.Demo.ASPnet\Meerkatalyst.Demo.ASPnet.csproj", "{502930E7-8F80-4C91-8961-BF28AA29FDE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meerkatalyst.Demo.ASPnet.Tests.Unit", "Meerkatalyst.Demo.ASPnet.Tests.Unit\Meerkatalyst.Demo.ASPnet.Tests.Unit.csproj", "{6260790A-A5B4-4E38-8DC2-869B3740B2E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{502930E7-8F80-4C91-8961-BF28AA29FDE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{502930E7-8F80-4C91-8961-BF28AA29FDE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{502930E7-8F80-4C91-8961-BF28AA29FDE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{502930E7-8F80-4C91-8961-BF28AA29FDE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6260790A-A5B4-4E38-8DC2-869B3740B2E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6260790A-A5B4-4E38-8DC2-869B3740B2E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6260790A-A5B4-4E38-8DC2-869B3740B2E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6260790A-A5B4-4E38-8DC2-869B3740B2E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
