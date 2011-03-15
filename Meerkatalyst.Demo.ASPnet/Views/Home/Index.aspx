@@ -5,6 +5,6 @@
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
-    <h1>Meerkatalyst.Demo.ASPnet - New heading</h1>
+    <h1>Meerkatalyst.Demo.ASPnet - Different heading</h1>
     <h2><%= Html.Encode(ViewData["Message"]) %></h2>
 </asp:Content>
